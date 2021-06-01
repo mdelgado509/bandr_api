@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS bandr_api;
+CREATE DATABASE bandr_api;
